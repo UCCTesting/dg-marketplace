@@ -1,4 +1,4 @@
-.DS_Store
+echo .DS_Store >> .gitignore
 Homepage.py
 Metamask_try.py
 test.py
