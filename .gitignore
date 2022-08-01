@@ -1,4 +1,16 @@
-echo .DS_Store >> .gitignore
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#File python
 Homepage.py
 Metamask_try.py
 test.py
